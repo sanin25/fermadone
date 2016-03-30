@@ -18,35 +18,41 @@ get_header(); // Подключаем хедер?>
                 'post_mime_type' => 'image',
                 'order' => 'ASC',
                 'orderby' => 'menu_order ID',
-                'posts_per_page' => 1,
+                'posts_per_page' => 100,
                 'post__not_in' => array($thumb_id),
                 'update_post_term_cache' => false,
             ) );
 
             ?>
-            <div class="singleimg">
+
                 <h1><?php the_title(); // Заголовок ?></h1>
                 <hr class="hr">
                 <div class="editpost">
                     <?php
                     if( current_user_can( 'edit_posts' ) ) {
-                        echo '<a href="'. get_edit_post_link(1) .'">Изменить</a>';
+                        echo '<a href="'. get_edit_post_link() .'">Изменить</a>';
                     }
                     ?>
                 </div>
-                <?php
+                <div id="gallery-3" class="iwmp-gallery clearfix">
+                    <?php
+                        $i = 0;
+                        foreach ($images->posts as $image)
+                        {
+                            $i += 1;
+                            if($i == 1)
+                                echo wp_get_attachment_link($image->ID,[450,450]);
+                                echo "<figure>";
+                            if ($i > 1)
+                           echo  wp_get_attachment_link($image->ID,[150,150]);
+                            echo "</figure>";
+                        }
+                    ?>
+                </div>
 
-                foreach ($images->posts as $image)
-                {
-                    echo '<a href="'.get_permalink($image->ID).'">'.wp_get_attachment_image( $image->ID, array(450,450)).'</a>';
-                }
-                ?>
-            </div>
             <?php if ( have_posts() ) while ( have_posts() ) : the_post(); // Начало цикла ?>
 
-                <div class="textsingle">
-                    <?php the_content()?>
-                </div>
+               <?php the_content()?>
 
                 <?php the_tags( 'Тэги: ', ' | ', '' ); // Выводим тэги(метки) поста ?>
             <?php endwhile; // Конец цикла

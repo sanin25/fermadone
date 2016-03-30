@@ -488,3 +488,27 @@ section {
 	font-size: 136%;
 
 }
+#gallery-3{
+  width: 100%;
+  > a{
+    img{
+      float: left;
+    }
+  }
+  figure {
+    float: right;
+
+    a {
+      margin: 0 auto;
+      text-align: center;
+      display: block;
+    }
+    img {
+      border: 2px solid rgba(35, 160, 19, 0.42);
+      border-radius: 26px;
+      padding: 2px;
+      float: left;
+
+    }
+  }
+}
