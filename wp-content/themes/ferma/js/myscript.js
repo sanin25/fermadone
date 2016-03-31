@@ -131,5 +131,5 @@ jQuery.fn.exist = function() {
     return false;
   });
 
-  
+  $('img').addClass('responsive-img');
 });

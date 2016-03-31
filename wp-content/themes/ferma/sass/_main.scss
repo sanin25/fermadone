@@ -526,6 +526,7 @@ section {
 	textarea{
 		@include  border-radius (9px);
 		padding: 10px;
+		width: 100%;
 	}
 }
 #submit{
@@ -537,11 +538,39 @@ section {
 	}
 }
 
-/* для не зарегистрированных или подписчиков */
-#commentlist li { border:2px solid white; }
-
-/* для администратора блога */
-#commentlist li.administrator { border:2px solid red; }
-
-/* для редакторов и авторов */
-#commentlist li.editor { border:2px solid blue; }
+.commentlist{
+	background: rgba(144, 134, 144, 0.26);
+	padding: 32px;
+	@include border-radius (25px);
+}
+.comment-form-author {
+	label {
+		padding-right: 36px;
+	}
+	input{
+		height: 30px;
+		margin: 15px 0;
+		border-radius: 8px;
+		border: 2px solid rgba(14, 142, 47, 0.58);
+		&:focus{
+			border: none !important;
+		}
+	}
+}
+.comment-form-email{
+	label {
+		padding-right: 19px;
+	}
+	input{
+		height: 30px;
+		margin: 15px 0;
+		border-radius: 8px;
+		border: 2px solid rgba(14, 142, 47, 0.58);
+		&:focus{
+			border: none !important;
+		}
+	}
+}
+#reply-title{
+	color: $color_link;
+}
