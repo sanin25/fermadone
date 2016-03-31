@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/wp-content/themes/ferma/single.php" line="53" />
+    <bookmark url="file://$PROJECT_DIR$/wp-content/themes/ferma/single.php" line="16" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82a97032-38d7-4250-afb2-6278a0589964" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/ferma/comments.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/akismet-ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/akismet-ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/img/logo-full-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/strict.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/ferma/.sass-cache/276f95baff630196ce8f56ee17e52c42ff217d0d/_main.scssc" afterPath="$PROJECT_DIR$/wp-content/themes/ferma/.sass-cache/276f95baff630196ce8f56ee17e52c42ff217d0d/_main.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/assets/jquery.magnific-popup.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/assets/jquery.magnific-popup.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/assets/magnific-popup.css" afterPath="$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/assets/magnific-popup.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/scripts.php" afterPath="$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/scripts.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/wp-gallery-shortcode-override.php" afterPath="$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/wp-gallery-shortcode-override.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/ferma/css/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/ferma/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/ferma/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/ferma/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/ferma/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/ferma/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/ferma/sass/_main.scss" afterPath="$PROJECT_DIR$/wp-content/themes/ferma/sass/_main.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/ferma/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/ferma/single.php" />
     </list>
@@ -37,19 +62,33 @@
       <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+            <state relative-caret-position="204">
+              <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="category.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/category.php">
+      <file leaf-file-name="comments.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/comments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="29" selection-end-column="34" />
-              <folding />
+            <state relative-caret-position="388">
+              <caret line="47" column="113" selection-start-line="47" selection-start-column="113" selection-end-line="47" selection-end-column="113" />
+              <folding>
+                <marker date="1459429958320" expanded="true" signature="1627:1869" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comment-template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/comment-template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7838">
+              <caret line="1872" column="29" selection-start-line="1872" selection-start-column="29" selection-end-line="1872" selection-end-column="29" />
+              <folding>
+                <marker date="1453271548000" expanded="true" signature="37224:37377" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,27 +96,29 @@
       <file leaf-file-name="_main.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/sass/_main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8432">
-              <caret line="496" column="3" selection-start-line="496" selection-start-column="3" selection-end-line="496" selection-end-column="3" />
+            <state relative-caret-position="293">
+              <caret line="538" column="0" selection-start-line="538" selection-start-column="0" selection-end-line="538" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wp-gallery-shortcode-override.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/wp-gallery-shortcode-override.php">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="186" column="12" selection-start-line="186" selection-start-column="12" selection-end-line="186" selection-end-column="12" />
-              <folding>
-                <marker date="1459314686424" expanded="true" signature="5429:5787" placeholder="..." />
-                <marker date="1459314686424" expanded="true" signature="5447:5471" placeholder="{...}" />
-                <marker date="1459314686424" expanded="true" signature="5502:5601" placeholder="{...}" />
-                <marker date="1459314686424" expanded="true" signature="5622:5659" placeholder="{...}" />
-                <marker date="1459314686424" expanded="true" signature="5693:5719" placeholder="{...}" />
-                <marker date="1459314686424" expanded="true" signature="7433:7444" placeholder="..." />
-                <marker date="1459314686424" expanded="false" signature="7546:7557" placeholder="..." />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shortcodes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/shortcodes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8500">
+              <caret line="529" column="9" selection-start-line="529" selection-start-column="9" selection-end-line="529" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,8 +126,8 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="84" selection-end-column="0" />
+            <state relative-caret-position="405">
+              <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,10 +141,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/ferma/sass/_main.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/ferma/single.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/ferma/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/wp-gallery-shortcode-override.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/assets/jquery.magnific-popup.min.js" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/assets/magnific-popup.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/scripts.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ferma/js/myscript.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ferma/header.php" />
+        <option value="$PROJECT_DIR$/wp-includes/comment-template.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ferma/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ferma/single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ferma/sass/_main.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/ferma/comments.php" />
       </list>
     </option>
   </component>
@@ -119,7 +167,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1370" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -147,8 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -221,104 +267,47 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fermaeko.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fermaeko.local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ferma" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fermaeko.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fermaeko.local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fermaeko.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fermaeko.local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iw-magnific-popup" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fermaeko.local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fermaeko.local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iw-magnific-popup" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -335,34 +324,44 @@
       <updated>1459232193513</updated>
       <workItem from="1459232195992" duration="14739000" />
       <workItem from="1459277653950" duration="1943000" />
-      <workItem from="1459311415704" duration="1681000" />
+      <workItem from="1459311415704" duration="12166000" />
+      <workItem from="1459404474611" duration="13447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18363000" />
+    <option name="totallyTimeSpent" value="42295000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26183206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14188164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -381,6 +380,62 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/sass/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/wp-gallery-shortcode-override.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="162" column="33" selection-start-line="162" selection-start-column="26" selection-end-line="162" selection-end-column="33" />
+          <folding>
+            <marker date="1424304506000" expanded="true" signature="5429:5628" placeholder="..." />
+            <marker date="1424304506000" expanded="true" signature="5447:5471" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="5502:5601" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="5622:5628" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="5791:5817" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="7399:7410" placeholder="..." />
+            <marker date="1424304506000" expanded="false" signature="7512:7523" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/shortcodes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8500">
+          <caret line="529" column="9" selection-start-line="529" selection-start-column="9" selection-end-line="529" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/single.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -410,13 +465,13 @@
         <state relative-caret-position="34">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="49" />
           <folding>
-            <marker date="1459314686424" expanded="true" signature="5429:5787" placeholder="..." />
-            <marker date="1459314686424" expanded="true" signature="5447:5471" placeholder="{...}" />
-            <marker date="1459314686424" expanded="true" signature="5502:5601" placeholder="{...}" />
-            <marker date="1459314686424" expanded="true" signature="5622:5659" placeholder="{...}" />
-            <marker date="1459314686424" expanded="true" signature="5693:5719" placeholder="{...}" />
-            <marker date="1459314686424" expanded="true" signature="7433:7444" placeholder="..." />
-            <marker date="1459314686424" expanded="false" signature="7546:7557" placeholder="..." />
+            <marker date="1424304506000" expanded="true" signature="5429:5628" placeholder="..." />
+            <marker date="1424304506000" expanded="true" signature="5447:5471" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="5502:5601" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="5622:5628" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="5791:5817" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="7399:7410" placeholder="..." />
+            <marker date="1424304506000" expanded="false" signature="7512:7523" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -458,13 +513,13 @@
         <state relative-caret-position="34">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="49" />
           <folding>
-            <marker date="1459314686424" expanded="true" signature="5429:5787" placeholder="..." />
-            <marker date="1459314686424" expanded="true" signature="5447:5471" placeholder="{...}" />
-            <marker date="1459314686424" expanded="true" signature="5502:5601" placeholder="{...}" />
-            <marker date="1459314686424" expanded="true" signature="5622:5659" placeholder="{...}" />
-            <marker date="1459314686424" expanded="true" signature="5693:5719" placeholder="{...}" />
-            <marker date="1459314686424" expanded="true" signature="7433:7444" placeholder="..." />
-            <marker date="1459314686424" expanded="false" signature="7546:7557" placeholder="..." />
+            <marker date="1424304506000" expanded="true" signature="5429:5628" placeholder="..." />
+            <marker date="1424304506000" expanded="true" signature="5447:5471" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="5502:5601" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="5622:5628" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="5791:5817" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="7399:7410" placeholder="..." />
+            <marker date="1424304506000" expanded="false" signature="7512:7523" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -495,74 +550,179 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/sass/_main.scss">
+    <entry file="file://$PROJECT_DIR$/wp-admin/includes/noop.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8432">
-          <caret line="496" column="3" selection-start-line="496" selection-start-column="3" selection-end-line="496" selection-end-column="3" />
+        <state relative-caret-position="527">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="29" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/shortcodes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7626">
-          <caret line="133" column="32" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="32" />
+        <state relative-caret-position="8500">
+          <caret line="529" column="9" selection-start-line="529" selection-start-column="9" selection-end-line="529" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/category.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/assets/magnific-popup.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="29" selection-end-column="34" />
+        <state relative-caret-position="524">
+          <caret line="351" column="0" selection-start-line="351" selection-start-column="0" selection-end-line="351" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/includes/noop.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/assets/jquery.magnific-popup.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="-340">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="121" selection-start-line="12" selection-start-column="121" selection-end-line="12" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/js/myscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="133" column="2" selection-start-line="133" selection-start-column="2" selection-end-line="133" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/inc/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/post-template.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/gregs-threaded-comment-numbering/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-214">
-          <caret line="1416" column="9" selection-start-line="1416" selection-start-column="9" selection-end-line="1416" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="119">
+          <caret line="43" column="52" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/single.php">
+    <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="84" selection-end-column="0" />
+        <state relative-caret-position="-8323">
+          <caret line="198" column="9" selection-start-line="198" selection-start-column="9" selection-end-line="198" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/iw-magnific-popup/includes/wp-gallery-shortcode-override.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="186" column="12" selection-start-line="186" selection-start-column="12" selection-end-line="186" selection-end-column="12" />
+        <state relative-caret-position="-119">
+          <caret line="162" column="33" selection-start-line="162" selection-start-column="26" selection-end-line="162" selection-end-column="33" />
           <folding>
-            <marker date="1459314686424" expanded="true" signature="5429:5787" placeholder="..." />
-            <marker date="1459314686424" expanded="true" signature="5447:5471" placeholder="{...}" />
-            <marker date="1459314686424" expanded="true" signature="5502:5601" placeholder="{...}" />
-            <marker date="1459314686424" expanded="true" signature="5622:5659" placeholder="{...}" />
-            <marker date="1459314686424" expanded="true" signature="5693:5719" placeholder="{...}" />
-            <marker date="1459314686424" expanded="true" signature="7433:7444" placeholder="..." />
-            <marker date="1459314686424" expanded="false" signature="7546:7557" placeholder="..." />
+            <marker date="1424304506000" expanded="true" signature="5429:5628" placeholder="..." />
+            <marker date="1424304506000" expanded="true" signature="5447:5471" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="5502:5601" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="5622:5628" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="5791:5817" placeholder="{...}" />
+            <marker date="1424304506000" expanded="true" signature="7399:7410" placeholder="..." />
+            <marker date="1424304506000" expanded="false" signature="7512:7523" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="219" column="9" selection-start-line="219" selection-start-column="9" selection-end-line="219" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38318">
+          <caret line="352" column="30" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="30" />
+          <folding>
+            <marker date="1451698522000" expanded="true" signature="3899:4047" placeholder="SELECT comme... ${$wpdb-&gt;comments}" />
+            <marker date="1451698522000" expanded="true" signature="9448:9560" placeholder="SELECT comme... ${$wpdb-&gt;comments}" />
+            <marker date="1451698522000" expanded="true" signature="9631:9739" placeholder="SELECT comme... ${$wpdb-&gt;comments}" />
+            <marker date="1451698522000" expanded="true" signature="9827:9969" placeholder="SELECT DATE_... ${$wpdb-&gt;comments}" />
+            <marker date="1451698522000" expanded="true" signature="10875:10983" placeholder="SELECT comme... $" />
+            <marker date="1451698522000" expanded="true" signature="18539:18686" placeholder="SELECT comme... ${$wpdb-&gt;comments}" />
+            <marker date="1451698522000" expanded="true" signature="20721:20779" placeholder="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1451698522000" expanded="true" signature="22867:23045" placeholder="SELECT `comm... ${$wpdb-&gt;comments}" />
+            <marker date="1451698522000" expanded="true" signature="34679:34743" placeholder="SELECT comme... ${$wpdb-&gt;comments}" />
+            <marker date="1451698522000" expanded="true" signature="35039:35099" placeholder="SELECT meta_... ${$wpdb-&gt;commentmeta}" />
+            <marker date="1451698522000" expanded="true" signature="68034:68124" placeholder="SELECT COUNT... ${$wpdb-&gt;comments}" />
+            <marker date="1451698522000" expanded="true" signature="71706:71880" placeholder="SELECT ID, p... $" />
+            <marker date="1451698522000" expanded="true" signature="72043:72220" placeholder="SELECT ID, p... $" />
+            <marker date="1451698522000" expanded="true" signature="72394:72469" placeholder="SELECT ID FR... ${$wpdb-&gt;posts}" />
+            <marker date="1451698522000" expanded="true" signature="73955:74033" placeholder="UPDATE ${$wp... " />
+            <marker date="1451698522000" expanded="true" signature="79073:79144" placeholder="UPDATE ${$wp... " />
+            <marker date="1451698522000" expanded="true" signature="79209:79287" placeholder="UPDATE ${$wp... " />
+            <marker date="1451698522000" expanded="true" signature="82992:83062" placeholder="SELECT ${$wp... ${$wpdb-&gt;comments}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/sass/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="538" column="0" selection-start-line="538" selection-start-column="0" selection-end-line="538" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/comment-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7838">
+          <caret line="1872" column="29" selection-start-line="1872" selection-start-column="29" selection-end-line="1872" selection-end-column="29" />
+          <folding>
+            <marker date="1453271548000" expanded="true" signature="37224:37377" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/ferma/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="47" column="113" selection-start-line="47" selection-start-column="113" selection-end-line="47" selection-end-column="113" />
+          <folding>
+            <marker date="1459429958320" expanded="true" signature="1627:1869" placeholder="..." />
           </folding>
         </state>
       </provider>

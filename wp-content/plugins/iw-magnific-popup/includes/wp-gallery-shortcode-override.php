@@ -178,16 +178,11 @@ function iwmp_gallery_shortcode( $attr ) {
 	$output = apply_filters( 'gallery_style', $gallery_style . $gallery_div );
 
 	$i = 0;
-	$y = 0;
 	foreach ( $attachments as $id => $attachment ) {
-		echo $y += 1;
-		if ( ! empty( $link ) && 'file' === $link ) {
-			$image_output = wp_get_attachment_link($id, $size, false, false);
-
-					}
+		if ( ! empty( $link ) && 'file' === $link )
+			$image_output = wp_get_attachment_link( $id, $size, false, false );
 		elseif ( ! empty( $link ) && 'none' === $link )
 			$image_output = wp_get_attachment_image( $id, $size, false );
-
 		else
 			$image_output = wp_get_attachment_link( $id, $size, true, false );
 

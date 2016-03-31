@@ -81,7 +81,11 @@ function register_mystyle()
     add_action('wp_ajax_my_mail', 'my_mail_callback');
     add_action('wp_ajax_nopriv_my_mail', 'my_mail_callback');
 
-  
+    $atr = array(
+        'size' => [650, 650],
+        'columns' => 5
+    );
+
 
 
 

@@ -1,3 +1,4 @@
+@charset "UTF-8";
 * {
   padding: 0;
   margin: 0;
@@ -525,25 +526,63 @@ section {
   font-size: 136%;
 }
 
-#gallery-3 {
+#gallery-2 {
   width: 100%;
 }
-#gallery-3 > a img {
+#gallery-2 > a img {
   float: left;
 }
-#gallery-3 figure {
+#gallery-2 dl {
   float: right;
 }
-#gallery-3 figure a {
+#gallery-2 dl dt a {
   margin: 0 auto;
   text-align: center;
   display: block;
 }
-#gallery-3 figure img {
+#gallery-2 dl dt img {
   border: 2px solid rgba(35, 160, 19, 0.42);
   border-radius: 26px;
   padding: 2px;
   float: left;
+}
+
+.comment-form-comment {
+  padding: 25px;
+  background: rgba(172, 185, 172, 0.39);
+  -moz-border-radius: 12px;
+  -webkit-border-radius: 12px;
+  border-radius: 12px;
+}
+.comment-form-comment textarea {
+  -moz-border-radius: 9px;
+  -webkit-border-radius: 9px;
+  border-radius: 9px;
+  padding: 10px;
+}
+
+#submit {
+  padding: 10px;
+  margin: 25px;
+  width: 150px;
+}
+#submit:hover {
+  color: #98998b;
+}
+
+/* ╨┤╨╗╤П ╨╜╨╡ ╨╖╨░╤А╨╡╨│╨╕╤Б╤В╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╤Е ╨╕╨╗╨╕ ╨┐╨╛╨┤╨┐╨╕╤Б╤З╨╕╨║╨╛╨▓ */
+#commentlist li {
+  border: 2px solid white;
+}
+
+/* ╨┤╨╗╤П ╨░╨┤╨╝╨╕╨╜╨╕╤Б╤В╤А╨░╤В╨╛╤А╨░ ╨▒╨╗╨╛╨│╨░ */
+#commentlist li.administrator {
+  border: 2px solid red;
+}
+
+/* ╨┤╨╗╤П ╤А╨╡╨┤╨░╨║╤В╨╛╤А╨╛╨▓ ╨╕ ╨░╨▓╤В╨╛╤А╨╛╨▓ */
+#commentlist li.editor {
+  border: 2px solid blue;
 }
 
 .bx-wrapper {

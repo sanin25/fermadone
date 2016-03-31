@@ -488,27 +488,60 @@ section {
 	font-size: 136%;
 
 }
-#gallery-3{
+#gallery-2{
   width: 100%;
   > a{
     img{
       float: left;
     }
   }
-  figure {
-    float: right;
+  dl{
+	  float: right;
+	  dt {
 
-    a {
-      margin: 0 auto;
-      text-align: center;
-      display: block;
-    }
-    img {
-      border: 2px solid rgba(35, 160, 19, 0.42);
-      border-radius: 26px;
-      padding: 2px;
-      float: left;
+		  a {
+			  margin: 0 auto;
+			  text-align: center;
+			  display: block;
+		  }
+		  img {
+			  border: 2px solid rgba(35, 160, 19, 0.42);
+			  border-radius: 26px;
+			  padding: 2px;
+			  float: left;
 
-    }
+		  }
+	  }
   }
 }
+
+.photosingle{
+
+}
+
+.comment-form-comment{
+	padding: 25px;
+	background: rgba(172, 185, 172, 0.39);
+	@include  border-radius (12px);
+	textarea{
+		@include  border-radius (9px);
+		padding: 10px;
+	}
+}
+#submit{
+	padding: 10px;
+	margin: 25px;
+	width: 150px;
+	&:hover{
+		color: rgb(152, 153, 139);
+	}
+}
+
+/* для не зарегистрированных или подписчиков */
+#commentlist li { border:2px solid white; }
+
+/* для администратора блога */
+#commentlist li.administrator { border:2px solid red; }
+
+/* для редакторов и авторов */
+#commentlist li.editor { border:2px solid blue; }
